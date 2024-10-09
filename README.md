@@ -26,23 +26,17 @@ Add Task :- ![WhatsApp Image 2024-10-10 at 00 13 26](https://github.com/user-att
 
 Set due Date :- ![WhatsApp Image 2024-10-10 at 00 13 26 (1)](https://github.com/user-attachments/assets/a700d787-33a2-4829-9b8c-241774c32770)
 
-Set Priority
-![WhatsApp Image 2024-10-10 at 00 20 48](https://github.com/user-attachments/assets/01fedb2c-0f0d-4832-9940-7a6c6eac610d)
+Set Priority :- ![WhatsApp Image 2024-10-10 at 00 20 48](https://github.com/user-attachments/assets/01fedb2c-0f0d-4832-9940-7a6c6eac610d)
 
-- Task List
-![WhatsApp Image 2024-10-09 at 23 53 15](https://github.com/user-attachments/assets/fb3d3253-96d0-4967-9ae3-3d2f3c2d434a)
+Task List :- ![WhatsApp Image 2024-10-09 at 23 53 15](https://github.com/user-attachments/assets/fb3d3253-96d0-4967-9ae3-3d2f3c2d434a)
 
-- Editing BTP Project Task
-![WhatsApp Image 2024-10-09 at 23 53 16 (2)](https://github.com/user-attachments/assets/dfa81ece-dc42-47da-86ca-938e2ea70527)
+Editing BTP Project Task :- ![WhatsApp Image 2024-10-09 at 23 53 16 (2)](https://github.com/user-attachments/assets/dfa81ece-dc42-47da-86ca-938e2ea70527)
 
-- BTP Project Task Updated
-![WhatsApp Image 2024-10-09 at 23 53 16 (1)](https://github.com/user-attachments/assets/d9c31a4d-9ed4-4f23-b731-18a25a462d93)
+BTP Project Task Updated :- ![WhatsApp Image 2024-10-09 at 23 53 16 (1)](https://github.com/user-attachments/assets/d9c31a4d-9ed4-4f23-b731-18a25a462d93)
 
-- Mark BTP Project task as 'Completed'
-![WhatsApp Image 2024-10-09 at 23 53 16](https://github.com/user-attachments/assets/223f0e67-3fd3-46da-a4cd-1509da1de111)
+Mark BTP Project task as 'Completed' :- ![WhatsApp Image 2024-10-09 at 23 53 16](https://github.com/user-attachments/assets/223f0e67-3fd3-46da-a4cd-1509da1de111)
 
-- Delete BTP Project Task
-![WhatsApp Image 2024-10-10 at 00 20 48 (1)](https://github.com/user-attachments/assets/761ea14b-6301-4100-b805-2f9719c9bf5f)
+Delete BTP Project Task :- ![WhatsApp Image 2024-10-10 at 00 20 48 (1)](https://github.com/user-attachments/assets/761ea14b-6301-4100-b805-2f9719c9bf5f)
 
 
 
