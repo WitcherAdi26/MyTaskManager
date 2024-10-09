@@ -22,11 +22,9 @@
 - Database: Room for local persistent storage.
 - Asynchronous Handling: Kotlin Coroutines and Flow for background task management.
 
-Add Task
-![WhatsApp Image 2024-10-10 at 00 13 26](https://github.com/user-attachments/assets/d919abf0-a6de-4b6f-9d08-20d5aebef6a5)
+Add Task - ![WhatsApp Image 2024-10-10 at 00 13 26](https://github.com/user-attachments/assets/d919abf0-a6de-4b6f-9d08-20d5aebef6a5)
 
-Set due Date
-![WhatsApp Image 2024-10-10 at 00 13 26 (1)](https://github.com/user-attachments/assets/a700d787-33a2-4829-9b8c-241774c32770)
+Set due Date - ![WhatsApp Image 2024-10-10 at 00 13 26 (1)](https://github.com/user-attachments/assets/a700d787-33a2-4829-9b8c-241774c32770)
 
 Set Priority
 ![WhatsApp Image 2024-10-10 at 00 20 48](https://github.com/user-attachments/assets/01fedb2c-0f0d-4832-9940-7a6c6eac610d)
